@@ -1,7 +1,7 @@
 # -*-coding:utf-8-*-
 '''
 @FileName:Logger.py 
-@Author:Piepis
+@Author:wangziyi
 @Date:2022/4/8 23:06 
 @Desc:
     本日志类可以把不同级别的日志输出到不同的日志文件中，以及显示在控制台
